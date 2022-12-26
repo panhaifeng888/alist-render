@@ -14,19 +14,19 @@ services:
         # value: sqlite3
         sync: false
       - key: DB_HOST
-        # value: db4free.net
+        # value: sql6.freesqldatabase.com
         sync: false
       - key: DB_PORT
         # value: 3306
         sync: false
       - key: DB_USER
-        # value: id19616247_pan
+        # value: sql6586581
         sync: false
       - key: DB_PASS
-        # value: sQmxPTv2POtyuhW
+        # value: H3ITdxVWjX
         sync: false
       - key: DB_NAME
-        # value: id19616247_fushe
+        # value: sql6586581
         sync: false
       - key: DB_TABLE_PREFIX
         # value: alist_
